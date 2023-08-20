@@ -11,7 +11,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <elasticsearch>8.9.0</elasticsearch>
+        <elasticsearch>8.9.1</elasticsearch>
         <compiler>1.8</compiler>
     </properties>
 
@@ -51,7 +51,7 @@
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20220320</version>
+            <version>20230227</version>
         </dependency>
     </dependencies>
 
