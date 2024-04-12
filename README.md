@@ -6,6 +6,18 @@ The plugin tracks CRUD changes made in an ElasticSearch index.
 
 Target folder contains compiled binaries ready for use. The first 3 numbers of the version tag refers to the version of ElasticSearch the plugin built for.
 
+* ElasticSearch 8.13.2
+
+``` bash
+elasticsearch-plugin install https://github.com/OlegKunitsyn/elasticsearch-followup-plugin/raw/master/target/elasticsearch-followup-plugin-8.13.2.1.zip
+```
+
+* ElasticSearch 8.13.1
+
+``` bash
+elasticsearch-plugin install https://github.com/OlegKunitsyn/elasticsearch-followup-plugin/raw/master/target/elasticsearch-followup-plugin-8.13.1.1.zip
+```
+
 * ElasticSearch 8.13.0
 
 ``` bash
